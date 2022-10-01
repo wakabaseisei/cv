@@ -28,7 +28,7 @@ ECサイト延長保証SaaSサービスの開発
 - メッセージング SNS
 - メール SES
 - ストレージ S3
-- CI/CD Github Actions
+- CI/CD GitHub Actions
 - インメモリデータストア ElastiCache for Redis
 - ビルド Makefile
 - サーバーレス Lambda
