@@ -33,6 +33,7 @@ ECサイト延長保証SaaSサービスの開発
 - ビルド Makefile
 - サーバーレス Lambda
 - ログ基盤 CloudWatch
+- 認証 Firebase Authentication
 - API連携 Freee会計, Shopify, Makeshop, Ebisumart
 
 ### 主な業務内容
