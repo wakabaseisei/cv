@@ -32,7 +32,7 @@ PM 1人
 - ビルド Makefile
 - ログ基盤 Cloud Logging
 - 分散トレーシング OpenTelemetry
-- 認証/認可 OIDC／JWT, OPA
+- 認証/認可 OIDC/JWT, OPA
 
 ### 主な業務内容
 - 決済の某登録可能数の上限を環境変数で設定できるように実現。決済マイクロサービスのAPI内の実装を変更。Helm(Kubernetes)のテンプレートファイルを変更し、デプロイ環境ごとに上限値を変えられるように実現。
