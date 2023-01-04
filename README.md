@@ -26,7 +26,7 @@ PM 1人
 - コンテナ基盤 Kubernetes(GKE)
 - 通信プロトコル gRPC(マイクロサービス間), HTTP+JSON(Web)
 - データストア Cloud SQL, Cloud Datastore
-- ストレージ GCS
+- ストレージ Cloud Storage
 - CI/CD GitLab CI, ArgoCD
 - メッセージング Kafka
 - ビルド Makefile
