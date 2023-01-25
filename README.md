@@ -31,10 +31,10 @@ PM 1人
 - データストア Cloud SQL, Cloud Datastore
 - ストレージ Cloud Storage
 - CI/CD GitLab CI, ArgoCD
-- メッセージング Kafka
+- メッセージング Kafka, Cloud PubSub
 - ビルド Makefile
 - ログ基盤 Cloud Logging
-- 分散トレーシング OpenTelemetry
+- 分散トレーシング OpenTelemetry, Jaeger
 - 認証/認可 OIDC/JWT, OPA
 
 ### 主な業務内容
