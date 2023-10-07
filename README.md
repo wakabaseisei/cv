@@ -7,10 +7,11 @@
 |名前|若林 誓也|
 |現住|埼玉県 川口市|
 |SNS|[Twitter](https://twitter.com/wakabaseisei)/[Facebook](https://facebook.com/wakabaseisei)|
-|技術ブログ|[zenn](https://zenn.dev/seisei)|
+|技術ブログ|[Zenn](https://zenn.dev/seisei)|
 
 ## 概要
-WIP
+- Goでのバックエンドの開発、AWS/GCP等でのクラウドインフラの設計・構築がメインになります。最近はマイクロサービスアーキテクチャ関連に携わることが多いです
+- フロントエンドやiOS/Androidアプリの開発、Unityを使用したゲーム開発の経験も一応あります。
 
 ## 主な業務経歴
 ### 事業者向け大規模ECサイトの開発(2023年)
