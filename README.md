@@ -7,7 +7,7 @@
 |名前|若林 誓也|
 |現住|埼玉県 川口市|
 |SNS|[Twitter](https://twitter.com/wakabaseisei)/[Facebook](https://facebook.com/wakabaseisei)|
-|技術ブログ|[zenn](https://zenn.com/wakabaseisei)|
+|技術ブログ|[zenn](https://zenn.dev/seisei)|
 
 ## 概要
 WIP
