@@ -14,6 +14,34 @@
 - 最近はマイクロサービスアーキテクチャ関連に携わることが多いです
 - フロントエンドやiOS/Androidアプリの開発、Unityを使用したゲーム開発の経験も一応あります。
 
+## スキル
+
+- 業務で扱った技術だけを列挙しています。
+
+### 言語
+
+Go | Python | JavaScript | TypeScript | C#
+
+### RDB/NoSQL
+
+MySQL | PostgreSQL | Redis
+
+### クラウド
+
+#### AWS
+
+S3 | Lambda | ECS(Fargate) | IAM | ElastiCache | Aurora | SQS | SNS | SES | CloudWatch | EventBridge
+
+
+#### GCP
+
+VPC | GCS | Cloud Functions | GKE(Kubernetes) | IAM | Cloud SQL | Cloud Pub/Sub | BigQuery | Cloud Logging | Cloud Datastore | Cloud Messaging | Firebase(Firestore)
+
+### その他
+
+GitHub | GitHub Actions |
+ Terraform | Docker | Helm | gRPC | ArgoCD | Jenkins | nginx | Apache Kafka | JMeter | PAY.JP
+ 
 ## 主な業務経歴
 ### 事業者向け大規模ECサイトの開発(2023年)
 参画し始めたばかり故、詳細は省略
