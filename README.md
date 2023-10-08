@@ -35,7 +35,7 @@ S3 | Lambda | ECS(Fargate) | IAM | ElastiCache | Aurora | SQS | SNS | SES | Clou
 
 #### GCP
 
-VPC | GCS | Cloud Functions | GKE(Kubernetes) | IAM | Cloud SQL | Cloud Pub/Sub | BigQuery | Cloud Logging | Cloud Datastore | Cloud Messaging | Firebase(Firestore)
+GCS | Cloud Functions | GKE(Kubernetes) | IAM | Cloud SQL | Cloud Pub/Sub | BigQuery | Cloud Logging | Cloud Datastore | Cloud Messaging | Firebase(Firestore)
 
 ### その他
 
