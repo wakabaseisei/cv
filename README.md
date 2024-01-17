@@ -41,10 +41,6 @@ GCS | Cloud Functions | GKE(Kubernetes) | IAM | Cloud SQL | Cloud Pub/Sub | BigQ
 
 GitHub | GitHub Actions |
  Terraform | Docker | Helm | gRPC | ArgoCD | Jenkins | nginx | Apache Kafka | JMeter | PAY.JP
- 
-## 主な業務経歴
-### 事業者向け大規模ECサイトの開発(2023年)
-参画し始めたばかり故、詳細は省略
 
 ### 決済プラットフォーム開発プロジェクト(2022年~2023年)
 #### プロジェクト概要
