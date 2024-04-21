@@ -51,6 +51,7 @@ GitHub | GitHub Actions |
 - 開発言語 Go
 - コンテナ基盤 Kubernetes(EKS)
 - 通信プロトコル Connect
+- スキーマ定義　Protobuf(Buf)
 - CI/CD GitHub Actions, ArgoCD
 - ビルド Makefile
 - 分散トレーシング OpenTelemetry
