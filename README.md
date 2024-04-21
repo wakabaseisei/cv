@@ -42,7 +42,7 @@ GitHub | GitHub Actions |
  Terraform | Docker | Helm | Connect | gRPC | ArgoCD | Jenkins | nginx | Apache Kafka | JMeter | PAY.JP
 
 ## 主な業務経歴
-### 大規模toB向けECサービスの開発(2022年~2023年)
+### 大規模toB向けECサービスの開発(2023年~)
 #### プロジェクト概要
 事業者向け工場・工事用、自動車整備用等の間接資材のECサービスの開発
 #### 担当
