@@ -5,7 +5,6 @@
 |key|value|
 |----|----|
 |名前|若林 誓也|
-|現住|埼玉県 川口市|
 |SNS|[Twitter](https://twitter.com/wakabaseisei)/[Facebook](https://facebook.com/wakabaseisei)|
 |技術ブログ|[Zenn](https://zenn.dev/seisei)|
 
@@ -40,9 +39,36 @@ GCS | Cloud Functions | GKE(Kubernetes) | IAM | Cloud SQL | Cloud Pub/Sub | BigQ
 ### その他
 
 GitHub | GitHub Actions |
- Terraform | Docker | Helm | gRPC | ArgoCD | Jenkins | nginx | Apache Kafka | JMeter | PAY.JP
+ Terraform | Docker | Helm | Connect | gRPC | ArgoCD | Jenkins | nginx | Apache Kafka | JMeter | PAY.JP
 
-### 決済プラットフォーム開発プロジェクト(2022年~2023年)
+## 主な業務経歴
+### 大規模toB向けECサービスの開発(2022年~2023年)
+#### プロジェクト概要
+事業者向け工場・工事用、自動車整備用等の間接資材のECサービスの開発
+#### 担当
+- 基幹システムのモダナイズ
+#### 使用技術
+- 開発言語 Go
+- コンテナ基盤 Kubernetes(EKS)
+- 通信プロトコル Connect
+- CI/CD GitHub Actions, ArgoCD
+- ビルド Makefile
+- 分散トレーシング OpenTelemetry
+- IaC Terraform
+#### 主な業務内容
+基幹システムはモノリスな構成で、事業の成長に伴って、依存関係が複雑で認知負荷の高いものになっていました。
+それらを解決していくためのモダナイゼーションの機運が高まっている中で、受注ドメイン領域の技術・アーキテクチャ刷新を担当しました。具体的には以下。
+- 言語選定、前職までのGoでの開発経験を活かし、Goの採用に貢献。
+- アプリケーションのアーキテクチャ設計
+- 初回開発スコープの選定
+- シーケンス図の作成
+- API設計。Protobufでスキーマ定義。Google AIPやAPI設計ガイドを熟読し、それらに準拠
+- ProtobufでOpenAPIドキュメントを生成するようにプラグインの選定。ドキュメント作成
+- 年2回行われる社内LTで、Protobuf(スキーマファースト開発)についての発表
+- 初回開発スコープ内の機能開発・テスト
+- GitHub Actionsでリリースチケット起票を自動化するワークフローを作成
+
+### 決済プラットフォームの開発(2022年~2023年)
 #### プロジェクト概要
 日本最大級の決済プラットフォームの開発
 
